@@ -52,6 +52,3 @@ All clipboard data stays in **local browser storage** (`chrome.storage.local`). 
 - Some pages with strict Content Security Policies (CSP) may limit clipboard access
 - Browser security requires a user gesture for some clipboard reads; copy/cut events are the primary capture path
 
-## License
-
-MIT
